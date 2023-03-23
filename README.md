@@ -1,4 +1,4 @@
 # parkur
 This is a Pygame training Repo.
 
-thank you to DaFluffyPotato in youtube
+thank you to DaFluffyPotato on youtube.
